@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mhtareq93/portfolio/static/css/main.8b3dcb69.chunk.css",
+    "main.js": "/mhtareq93/portfolio/static/js/main.86d18165.chunk.js",
+    "main.js.map": "/mhtareq93/portfolio/static/js/main.86d18165.chunk.js.map",
+    "runtime-main.js": "/mhtareq93/portfolio/static/js/runtime-main.ae46e483.js",
+    "runtime-main.js.map": "/mhtareq93/portfolio/static/js/runtime-main.ae46e483.js.map",
+    "static/js/2.9e64ffe2.chunk.js": "/mhtareq93/portfolio/static/js/2.9e64ffe2.chunk.js",
+    "static/js/2.9e64ffe2.chunk.js.map": "/mhtareq93/portfolio/static/js/2.9e64ffe2.chunk.js.map",
+    "index.html": "/mhtareq93/portfolio/index.html",
+    "precache-manifest.df272a3c487a9a04fb8bf5ff3452be81.js": "/mhtareq93/portfolio/precache-manifest.df272a3c487a9a04fb8bf5ff3452be81.js",
+    "service-worker.js": "/mhtareq93/portfolio/service-worker.js",
+    "static/css/main.8b3dcb69.chunk.css.map": "/mhtareq93/portfolio/static/css/main.8b3dcb69.chunk.css.map",
+    "static/js/2.9e64ffe2.chunk.js.LICENSE.txt": "/mhtareq93/portfolio/static/js/2.9e64ffe2.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/mhtareq93/portfolio/static/media/1.74bf6088.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae46e483.js",
+    "static/js/2.9e64ffe2.chunk.js",
+    "static/css/main.8b3dcb69.chunk.css",
+    "static/js/main.86d18165.chunk.js"
+  ]
+}
