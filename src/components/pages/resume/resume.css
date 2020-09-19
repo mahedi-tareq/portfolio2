@@ -1,0 +1,150 @@
+.mb2 {
+  margin-bottom: 2rem;
+}
+
+.resume_div_itle {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.divider {
+  width: 100%;
+  height: 0.12rem;
+  background: #02272e;
+  margin-bottom: 1.6rem;
+}
+
+/*===============
+----Menu
+================*/
+nav.navigation {
+  position: fixed;
+  top: 30%;
+  left: 1%;
+  display: flex;
+  flex-direction: column;
+}
+
+nav.navigation a {
+  font-size: 1rem;
+  font-weight: 400;
+  background: beige;
+  padding: 0.2rem 0.9rem;
+  margin: 0.2rem 0;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 0.3rem;
+}
+
+nav.navigation a:hover {
+  background: #051f19;
+  color: #ffffff;
+}
+/*===============
+----End Menu
+================*/
+
+.resume_wrapper {
+  width: 72vw;
+  margin: 0 auto;
+  margin-top: 4rem;
+  font-size: 1rem;
+}
+
+h3.resume_name {
+  font-size: 2rem;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+.resume_contact_info {
+  display: flex;
+  justify-content: space-evenly;
+  border: 2px solid;
+  padding: 0.3rem 0;
+  margin-bottom: 2rem;
+}
+
+.resume_contact_info li {
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+
+.resume_contact_info li svg {
+  margin-right: 0.2rem;
+  font-size: 1rem;
+}
+
+.resume_intro {
+  margin-bottom: 2rem;
+}
+
+/*==========
+---Skills
+===========*/
+.resume_skills_lang {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.resume_skills_lang li {
+  flex: 1 20%;
+  font-weight: 500;
+  margin: 0.5rem 0.5rem;
+  background: beige;
+}
+
+/*==============
+---End Skills
+================*/
+
+/*==============
+---Professional Experience
+================*/
+h3.resume_experience_company_name {
+  font-size: 1.2rem;
+  background: beige;
+  padding: 0.4rem 0.4rem;
+  margin-bottom: 0.6rem;
+}
+
+.resume_experience_jobtitle {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.2rem;
+}
+
+p.resume_experience_companyinfo {
+  margin-bottom: 0.4rem;
+}
+
+.resume_experience_job_details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+.resume_experience_job_details li {
+  flex: 1 1 20%;
+  font-weight: 500;
+  margin: 0.5rem 0.5rem;
+  background: beige;
+  text-align: center;
+}
+
+.resume_experience_jobtitle li svg {
+  font-size: 1rem;
+}
+
+.resume_additional_info p span {
+  font-weight: 500;
+}
+/*==============
+---End Professional Experience
+================*/
